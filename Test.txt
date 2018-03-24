@@ -1,3 +1,4 @@
 Create Text File
 Test Branch 1 - Commit 1
 Test Branch 2 - Commit 2
+Test Branch 3 - Commit 3
